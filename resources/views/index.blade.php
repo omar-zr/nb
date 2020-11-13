@@ -50,7 +50,7 @@ var data = {"name":"Name is required","email":"Email is required","comment":"Com
 <script type='text/javascript' src='wp-content/themes/unicord/js/comments7661.js?ver=5.4.2'></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.4.2" />
 <link rel="canonical" href="index.html" />
 <link rel='shortlink' href='index.html' />
@@ -116,14 +116,14 @@ var data = {"name":"Name is required","email":"Email is required","comment":"Com
         </div> <!-- .logo -->
 
 		                <div class="email-us">Say <a href="mailto:hello@unicord.com"><span>hello</span>@unicord.com</a></div>
-			
+
 
             <div class="sandwich-nav"> <b>MENU</b>
                 <div class="sandwich-btn circle" id="sandwich-btn" data-dist="7"> <span></span> <span></span> </div>
                 <!-- end sandwich-btn -->
 
             </div>
-		
+
     </nav>
 
 <main>
@@ -383,11 +383,11 @@ var data = {"name":"Name is required","email":"Email is required","comment":"Com
 	                <a href="index.html" rel="home">
                 <img src="wp-content/uploads/2018/12/logo-1.png" alt="Unicord | Creative Portfolio for Freelancers &amp; Agencies Theme">
             </a>
-	    
+
 	    	        <h2>Don't be shy and<br>talk to us?</h2>
 
 	                        <h5>SAY HELLO@UNICORD.COM.UA</h5>
-                    
+
                         <ul>
                                             <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -413,7 +413,7 @@ var data = {"name":"Name is required","email":"Email is required","comment":"Com
     <!-- end modal-dialog -->
 </div>
 <!-- end map -->
-<script src="http://code.jivosite.com/widget/lNHgYjgm1A" async></script>
+
 <script type="text/html" id="wpb-modifications"></script><script type='text/javascript'>
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/unicord.themezinho.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
