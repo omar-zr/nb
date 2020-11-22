@@ -131,7 +131,7 @@ var data = {"name":"Name is required","email":"Email is required","comment":"Com
                             <div class="slider">
                                 <div class="swiper-container gallery-top" data-speed="600" data-autoplay-delay="4500" data-loop="enable">
                                     <div class="swiper-wrapper">
-                                                                                    <div class="swiper-slide bg-image" data-background="wp-content/uploads/img/1.jpg" data-stellar-background-ratio="0.5">
+                                        <div class="swiper-slide bg-image" style="background-size: cover;background-repeat:no-repeat" data-background="wp-content/uploads/img/1.jpg" data-stellar-background-ratio="0.5">
                                             </div>
                                                                                         <div class="swiper-slide bg-image" data-background="wp-content/uploads/img/3.jpg" data-stellar-background-ratio="0.5">
                                             </div>
