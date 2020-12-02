@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+    return view('dashboard');
+})->name('dashboard');
+
+Route::resource('admin/product', 'App\Http\Controllers\Admin\ProductController');
+
+Route::get('/product/{id}', 'App\Http\Controllers\FrontController@index');
