@@ -13,16 +13,19 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide bg-image"
                                             style="background-size: cover;background-repeat:no-repeat"
-                                            data-background="wp-content/uploads/img/1.jpg"
+                                            data-background="wp-content/uploads/img/close-up-hands-sewing-with-machine_23-2148754138.jpg"
                                             data-stellar-background-ratio="0.5">
                                         </div>
+                                       
                                         <div class="swiper-slide bg-image"
-                                            data-background="wp-content/uploads/img/3.jpg"
-                                            data-stellar-background-ratio="0.5">
+                                            data-background="wp-content/uploads/img/photo_2020-10-30_20-17-07.jpg"
+                                            data-stellar-background-ratio="0.5"
+                                            style="height:100%; background-size: 100%;background-repeat: no-repeat;">
                                         </div>
                                         <div class="swiper-slide bg-image"
-                                            data-background="wp-content/uploads/img/4.jpg"
-                                            data-stellar-background-ratio="0.5">
+                                            data-background="wp-content/uploads/img/person-sewing-machine-atelier_23-2148742093.jpg"
+                                            data-stellar-background-ratio="0.5"
+                                            style="height:100%; background-size: 100%;background-repeat: no-repeat;">
                                         </div>
                                     </div>
                                     <!-- Add Pagination -->
@@ -77,10 +80,10 @@
                             <ul>
                                 <li class="wow fadeInUp development html ui-ux-design">
                                     <figure data-tilt>
-                                        <img src="wp-content/uploads/img/1.jpg" alt="Yellow Ginger" class="thumb" />
+                                        <img src="wp-content/uploads/img/il_570xN.1818218439_92o4.jpg" alt="Yellow Ginger" class="thumb" />
                                         <figcaption>
-                                            <img src="wp-content/uploads/img/3.jpg" alt="Yellow Ginger" class="brand" />
-                                            <h3>Yellow Ginger</h3>
+                                            <img src="wp-content/uploads/img/top-view-vintage-sewing-machine-with-scissors-thread_23-2148739409.jpg" alt="Yellow Ginger" class="brand" />
+                                            <h3>T Shirts</h3>
 
                                             <small>Development,HTML,UI-UX Design</small>
                                             <a href="portfolio/yellow-ginger/index.html">CASE DETAILS</a>
@@ -89,12 +92,12 @@
                                 </li>
                                 <li class="wow fadeInUp development html ui-ux-design">
                                     <figure data-tilt>
-                                        <img src="wp-content/uploads/2019/01/works02-3.jpg" alt="Red Tomato"
+                                        <img src="wp-content/uploads/img/dzz11660_mid blue_xl.jpg" alt="Red Tomato"
                                             class="thumb" />
                                         <figcaption>
-                                            <img src="wp-content/uploads/2018/12/logo-brand2-1.png" alt="Red Tomato"
+                                            <img src="wp-content/uploads/img/dzz11660_mid blue_xl.jpg" alt="Red Tomato"
                                                 class="brand" />
-                                            <h3>Red Tomato</h3>
+                                            <h3>Jeans</h3>
 
                                             <small>Development,HTML,UI-UX Design</small>
                                             <a href="portfolio/red-tomato/index.html">CASE DETAILS</a>
@@ -103,12 +106,12 @@
                                 </li>
                                 <li class="wow fadeInUp application ui-ux-design wordpress">
                                     <figure data-tilt>
-                                        <img src="wp-content/uploads/2019/01/works03-3.jpg" alt="Mr. Washington"
+                                        <img src="wp-content/uploads/img/L00157s2.jpg" alt="Mr. Washington"
                                             class="thumb" />
                                         <figcaption>
                                             <img src="wp-content/uploads/2018/12/logo-brand-1.png" alt="Mr. Washington"
                                                 class="brand" />
-                                            <h3>Mr. Washington</h3>
+                                            <h3>Jacket</h3>
 
                                             <small>Application,UI-UX Design,WordPress</small>
                                             <a href="portfolio/mr-washington/index.html">CASE DETAILS</a>
@@ -117,12 +120,12 @@
                                 </li>
                                 <li class="wow fadeInUp application ui-ux-design wordpress">
                                     <figure data-tilt>
-                                        <img src="wp-content/uploads/2019/01/works05-3.jpg" alt="Celebrety"
+                                        <img src="wp-content/uploads/img/rBVaVl1BWmaAUxqMAAFBi8YztfY155.jpg" alt="Celebrety"
                                             class="thumb" />
                                         <figcaption>
                                             <img src="wp-content/uploads/2018/12/logo-brand2-1.png" alt="Celebrety"
                                                 class="brand" />
-                                            <h3>Celebrety</h3>
+                                            <h3>Dress </h3>
 
                                             <small>Application,UI-UX Design,WordPress</small>
                                             <a href="portfolio/celebrety/index.html">CASE DETAILS</a>

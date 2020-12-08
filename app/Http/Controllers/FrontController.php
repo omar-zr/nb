@@ -9,8 +9,6 @@ class FrontController extends Controller
     public function index(int $id)
     {
         $pr = Product::find($id);
-
-
         return view('layouts.product',['pr'=>$pr]);
     }
 }
