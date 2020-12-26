@@ -13,10 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/ar', function () {
     return view('index');
 });
-
+Route::get('/tur', function () {
+    return view('index1');
+});
+Route::get('/all', function () {
+    return view('layouts/allProduct');
+});
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
